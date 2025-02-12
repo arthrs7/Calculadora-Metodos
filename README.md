@@ -1,7 +1,4 @@
 Calculadora em C#
-
-
-
 Este projeto é uma calculadora simples desenvolvida em C# que permite ao usuário realizar operações matemáticas básicas: adição, subtração, multiplicação e divisão.
 
 🚀 Funcionalidades
